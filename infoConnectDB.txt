@@ -1,0 +1,7 @@
+umarinoDB2
+
+HOST=bbio2m3pyasjqi51ottb-mysql.services.clever-cloud.com
+DB=bbio2m3pyasjqi51ottb
+USER=umhd9vdc7gnqc8ba
+PORT=3306
+PASSWORD=dtddiwsjCpO5npGrO5HQ 
