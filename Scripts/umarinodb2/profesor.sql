@@ -1,0 +1,4 @@
+CREATE TABLE  Profesor(
+    _id INT AUTO_INCREMENT PRIMARY KEY,
+    _nombreProfesor VARCHAR (80) NOT NULL
+);
