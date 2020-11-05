@@ -1,4 +1,4 @@
-CREATE TABLE  Profesor(
-    _id INT AUTO_INCREMENT PRIMARY KEY,
+CREATE TABLE  IF NOT EXISTS Profesor(
+    _idProfesor VARCHAR (11) NOT NULL PRIMARY KEY,
     _nombreProfesor VARCHAR (80) NOT NULL
-);
+) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_spanish_ci;

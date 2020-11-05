@@ -1,4 +1,4 @@
-CREAR TABLA SI NO EXISTE TUTORIAS (
-    foreign key (matricula ) references umarinoDB2.Alumno(matricula) on delate no action on update no action,
-    foreign key (idProfesor ) references umarinoDB2.Profesor(idProfesor) on delate no action on update no action
-    );
+CREATE TABLE IF NOT EXISTS Tutorias(
+	_matricula VARCHAR(10) NOT NULL,
+	_idProfesor VARCHAR(11) NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_spanish_ci;

@@ -1,7 +1,5 @@
-CREATE TABLE Usuarios ( 
+CREATE TABLE Usuarios(
     _idUsuario INT NOT NULL PRIMARY KEY, 
-    _login CHAR(10) NOT NULL, 
-    _password CHAR(8) NULL
-
-    FOREIGN KEY (loginmatricula) REFERENCE alumno(_matricula)
-);
+    _matricula VARCHAR(10) NOT NULL, 
+    _contrasena VARCHAR(8) NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_spanish_ci;

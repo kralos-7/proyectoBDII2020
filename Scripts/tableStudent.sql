@@ -10,6 +10,7 @@ INSERT INTO student (_name,_ntable)
 VALUES  ("Carlos","Pagos"),
         ("Cesar","Usuarios"),
         ("Everardo","Alumno"),
+
         ("Jonathan","Beca"),
         ("Kevin","Tutorias"),
         ("Libia","Calificaciones"),
