@@ -1,0 +1,8 @@
+Completar el trigger visto en clase. Luego de agregar un alumno
+crear registros en las tablas siguientes:
+
+- usuario
+- pagos
+- beca
+
+Nota: Proponer datos de llenado faltantes
