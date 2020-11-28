@@ -1,0 +1,9 @@
+view yara
+
+Crear una vista que permite ver la siguiente información en forma de tabla
+Id almacen | Ubicación del alamcen (cuidad, provincial y cp) | Cantidad de libros
+
+view zurisadai
+
+Crear una vista que permite ver la siguiente información en forma de tabla
+Id libros | Datos del libro (titulo y autor) | Almacen donde se encuentra

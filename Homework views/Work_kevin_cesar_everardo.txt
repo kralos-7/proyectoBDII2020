@@ -1,0 +1,14 @@
+view kevin
+
+Crear una vista que permite ver la siguiente información en forma de tabla
+Fecha | Numero de consultas | Especialidad 
+
+view cesar
+
+Crear una vista que permite ver la siguiente información en forma de tabla
+Id centro | numero de medicos | numero de otros empleados
+
+view everardo
+
+Crear una vista que permite ver la siguiente información en forma de tabla
+Fecha | Nombre del medico | Numero de consultas

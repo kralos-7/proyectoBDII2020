@@ -1,0 +1,9 @@
+view carlos
+
+Crear una vista que permite ver la siguiente información en forma de tabla
+Id del Proyecto | Nombre del Proyecto | Numero de empleados
+
+view jonathan
+
+Crear una vista que permite ver la siguiente información en forma de tabla
+Empresa | Proyectos | Presupuesto

@@ -1,0 +1,4 @@
+view libia
+
+Crear una vista que permite ver la siguiente información en forma de tabla
+Id profesor | Nombre del profesor | Numero de tutorados | Numero de asignaturas
